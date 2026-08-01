@@ -53,7 +53,7 @@ Google Analytics 4 and Shopify Analytics can help CPP Farm Store better understa
 
 ## GitHub Pages
 
-https://YOUR-GITHUB-PAGES-URL
+<https://kebachez.github.io/ITP-W09-Shopify-GA4/>
 
 ## GitHub Repository
 
